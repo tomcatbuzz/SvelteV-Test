@@ -1,0 +1,16 @@
+{
+	"name": "SvelteV-test",
+	"version": "0.0.1",
+	"scripts": {
+		"dev": "svelte-kit dev",
+		"build": "svelte-kit build",
+		"start": "svelte-kit start"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-node": "next",
+		"@sveltejs/adapter-static": "^1.0.0-next.0",
+		"@sveltejs/kit": "next",
+		"@sveltejs/snowpack-config": "next",
+		"svelte": "^3.29.0"
+	}
+}
